@@ -7,6 +7,10 @@ This project is a Token Presale Notification Bot that monitors blockchain events
   <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/public/TGBot.PNG" alt="Main Menu">
 </p>
 
+<p align="center">
+  <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/public/DiscordBot.PNG" alt="Main Menu">
+</p>
+
 ## Features
 - Real-time monitoring of token purchase events on the blockchain
 - Automatic notifications to Telegram and Discord channels
