@@ -3,6 +3,10 @@
 ## Overview
 This project is a Token Presale Notification Bot that monitors blockchain events and sends real-time notifications to Telegram and Discord channels when users purchase tokens using ETH, USDT, USDC, or DAI.
 
+<p align="center">
+  <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/src/public/TGBot.PNG" alt="Main Menu">
+</p>
+
 ## Features
 - Real-time monitoring of token purchase events on the blockchain
 - Automatic notifications to Telegram and Discord channels
@@ -27,7 +31,7 @@ When a purchase is detected, the bot sends a formatted message like this:
 🧰 Token Amount: 1000.00 QSE
 💸 USD Amount: 2000.00 USD (💲 Token Price: 2.00 USD)
 🚀 Round: 1
-⏰ Timestamp: 2023-05-01 12:34:56
+⏰ Timestamp: 2025-05-13 12:34:56
 🔗 View Transaction
 ```
 
