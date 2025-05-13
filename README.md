@@ -4,11 +4,9 @@
 This project is a Token Presale Notification Bot that monitors blockchain events and sends real-time notifications to Telegram and Discord channels when users purchase tokens using ETH, USDT, USDC, or DAI.
 
 <p align="center">
-  <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/public/TGBot.PNG" alt="Main Menu">
-</p>
-
-<p align="center">
-  <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/public/DiscordBot.PNG" alt="Main Menu">
+  <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/public/TGBot.PNG" alt="Telegram Bot Notification" height="400">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/stevendev0822/Token-Presale-Notification-Bot-Portfolio/blob/main/public/DiscordBot.PNG" alt="Discord Bot Notification" height="400">
 </p>
 
 ## Features
